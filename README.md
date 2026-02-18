@@ -33,6 +33,7 @@ The objective is to support data-driven decision-making in risk management, cust
 - Total Customers: 2,371
 
 ---
+<img width="1724" height="977" alt="Bank Customer Analysis Dashboard" src="https://github.com/user-attachments/assets/1eb2c7ab-909e-412c-b297-5cc1d0a4828c" />
 
 ## 📈 Dashboard Components
 
